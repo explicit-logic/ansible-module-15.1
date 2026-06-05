@@ -1,0 +1,4 @@
+location: nodejs-app
+version: 1.0.0
+user_name: app-user
+destination: "/home/{{user_name}}"
